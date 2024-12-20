@@ -16,3 +16,6 @@ Thumbs.db      # Windows
 .vscode/
 .idea/
 
+# Log files
+*.log
+
