@@ -8,3 +8,6 @@ content/.obsidian/plugins/readwise-official/styles.css
 # Build directories
 /resources/
 
+# OS-specific files
+.DS_Store      # macOS
+Thumbs.db      # Windows
