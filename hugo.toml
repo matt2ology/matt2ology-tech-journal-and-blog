@@ -1,0 +1,13 @@
+baseURL = 'https://matt2ology.github.io/'
+languageCode = 'en-us'
+title = 'Matt2ology Tech Journal and Blog'
+[[module.imports]]
+path = 'github.com/gethinode/hinode'
+
+[taxonomies]
+  author = 'authors'
+  category = 'categories'
+  medium = 'mediums'
+  note = 'notes'
+  source = 'sources'
+  tag = 'tags'
