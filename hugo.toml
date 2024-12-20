@@ -4,6 +4,12 @@ title = 'Matt2ology Tech Journal and Blog'
 [[module.imports]]
 path = 'github.com/gethinode/hinode'
 
+# Ignore the templates that obsidian uses
+[[module.mounts]]
+  source = 'content'
+  target = 'content'
+  excludeFiles = ['Templates/**']
+
 [taxonomies]
   author = 'authors'
   category = 'categories'
