@@ -1,9 +1,6 @@
 content/.obsidian/workspace.json
 content/.obsidian/community-plugins.json
-content/.obsidian/plugins/readwise-official/data.json
-content/.obsidian/plugins/readwise-official/main.js
-content/.obsidian/plugins/readwise-official/manifest.json
-content/.obsidian/plugins/readwise-official/styles.css
+content/.obsidian/plugins/
 
 # Build directories
 /resources/
