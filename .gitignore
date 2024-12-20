@@ -26,3 +26,5 @@ Thumbs.db      # Windows
 # Node.js related files (if using JavaScript frameworks or dependencies)
 node_modules/
 
+# Cache files
+.cache/
