@@ -1,0 +1,14 @@
+{
+  "showLineNumber": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "attachments",
+  "userIgnoreFilters": [
+    "Obsidian Templates/"
+  ]
+}
